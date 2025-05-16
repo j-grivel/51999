@@ -2,12 +2,17 @@
 Tarea construcción Analizador - SSL 2025
 
 # Instalación
-Clona este repositorio: git clone https://github.com/j-grivel/51999
+Clona este repositorio:
+               
+	git clone https://github.com/j-grivel/51999
 
 - Pasos: Abre una ventana de comandos (Cmd, PowerShell, Git Bash)
-         Clona el proyecto desde el repositorio GitHub utilizando el comando que se puso arriba ( Se debe ver el mensaje "done")
-         Cambia al directorio raíz del proyecto con el comando: cd AnalizadorFinal
-         Abre VS Code para trabajar con el código del proyecto con el comando: code .
+
+  Clona el proyecto desde el repositorio GitHub utilizando el comando que se puso arriba ( Se debe ver el mensaje "done")
+  																																											
+  Cambia al directorio raíz del proyecto con el comando: cd AnalizadorFinal
+  
+  Abre VS Code para trabajar con el código del proyecto con el comando: code .
          
   
 # Instrucciones
