@@ -10,7 +10,7 @@ Clona este repositorio:
 
   Clona el proyecto desde el repositorio GitHub utilizando el comando que se puso arriba ( Se debe ver el mensaje "done")
   																																											
-  Cambia al directorio raíz del proyecto con el comando: *cd 51999* y luego *cd AnalizadorFinal*
+  Cambia al directorio raíz del proyecto con el comando: *cd 51999/AnalizadorFinal*
   
   Abre VS Code para trabajar con el código del proyecto con el comando: *code .*
          
