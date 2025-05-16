@@ -32,4 +32,8 @@ Si el input ingresado es correcto, nos indicara los tokens y lexemas de la entra
 Si el input ingresado es incorrecto, nos indicara cual/es son los errores y en que parte de la expresion estan.
 
 
+# Aclaracion
+Si al ejecutar en la terminal ocurre un error, leer la carpeta EnCasoDeError.txt del analizador
+
+
 
