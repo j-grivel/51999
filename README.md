@@ -1,6 +1,9 @@
 # 51999
 Tarea construcción Analizador - SSL 2025
 
+# Instalación
+Clona este repositorio: git clone 
+
 # Instrucciones
 -Preparación: Antes de ejecutar el programa se debe ingresar la entrada a analizar. Para eso copiamos el texto de alguno de los archivos input del github y lo pegamos en el archivo input.txt del programa en Visual Studio
 
