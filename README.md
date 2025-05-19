@@ -35,5 +35,7 @@ Si el input ingresado es incorrecto, nos indicara cual/es son los errores y en q
 # Aclaracion
 Si al ejecutar en la terminal ocurre un error, leer la carpeta EnCasoDeError.txt del analizador
 
+Se debe tener instalado Node.js y Git para el funcionamiento del analizador
+
 
 
