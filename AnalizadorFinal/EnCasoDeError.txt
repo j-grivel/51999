@@ -2,14 +2,3 @@ No se debe modificar la gramatica gram.g4 pero en caso de haberlo hecho y al eje
 porque al leer un token da resultado undefined hacer lo siguiente:
 Pegar:    this.symbolicNames = gramLexer.symbolicNames; // No puede faltar this.symbolicNames = gramLexer.symbolicNames;
 en la linea 59 de gramLexer.js 
-
-Para mostrar los tokens, pegar en el index lo siguiente:
-tokens.fill();
-for (const token of tokens.tokens) {
-
-  if (token.type !== -1) {
-    
-    const tokenName = lexer2.symbolicNames[token.type];
-    console.log(`Token: ${tokenName}, Lexema: '${token.text}'`);
-  }
-}
